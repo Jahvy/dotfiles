@@ -1,0 +1,14 @@
+[user]
+	name = Elijah Valenciano
+	email = elijahv@sas.upenn.edu
+[color]
+	ui = true
+[core]
+	editor = vim
+[alias]
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
